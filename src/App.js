@@ -111,8 +111,12 @@ const TTSClient = () => {
         </div>
         <div className={styles.section_element}>
           <img className={styles.silero_logo} src={silero_logo}></img>
-          <a href='https://github.com/snakers4/silero-models'>Модели Silero на Github</a>
-          <a href='https://silero.ai/'>Silero Speech</a>
+          <a target='_blank' href='https://silero.ai/'>Silero Speech</a>
+          <a target='_blank' href='https://github.com/snakers4/silero-models'>Модели Silero на Github</a>
+
+          <a target='_blank' href='https://github.com/cracklesparkle/voicenlrs_prototype_client'>Client Github</a>
+          <a target='_blank' href='https://github.com/cracklesparkle/voicenlrs_prototype_backend'>Backend Github</a>
+
         </div>
         <p>Прототип реализован для Национальной библиотеки Республики Саха (Якутия), 2023</p>
       </div>
