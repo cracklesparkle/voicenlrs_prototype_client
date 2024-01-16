@@ -107,7 +107,7 @@ const TTSClient = () => {
 
       <div className={styles.section}>
         <div className={styles.section_element}>
-          В прототипе используется модель распознавания речи Silero TTS ©.
+          В прототипе используется модель синтеза речи Silero TTS ©.
         </div>
         <div className={styles.section_element}>
           <img className={styles.silero_logo} src={silero_logo}></img>
